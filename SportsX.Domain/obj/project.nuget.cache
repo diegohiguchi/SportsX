@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7zhIUFJeEffHI+ouvSe7OIe3cA2bci3lDjpNtDjWv86lCxng668yfN0jyvyX0AcanZl6GTy5BvlMsF74Sk++g==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\SportsX\\SportsX.Domain\\SportsX.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\fluentvalidation\\9.1.2\\fluentvalidation.9.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

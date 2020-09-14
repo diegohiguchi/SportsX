@@ -1,0 +1,15 @@
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Infra.deps.json
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Infra.runtimeconfig.json
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Infra.runtimeconfig.dev.json
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Infra.dll
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Infra.pdb
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Domain.dll
+C:\Projetos\SportsX\SportsX.Infra\bin\Debug\netcoreapp3.1\SportsX.Domain.pdb
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.csprojAssemblyReference.cache
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.AssemblyInfoInputs.cache
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.AssemblyInfo.cs
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.csproj.CoreCompileInputs.cache
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.csproj.CopyComplete
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.dll
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.pdb
+C:\Projetos\SportsX\SportsX.Infra\obj\Debug\netcoreapp3.1\SportsX.Infra.genruntimeconfig.cache

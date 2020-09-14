@@ -1,0 +1,12 @@
+C:\Projetos\SportsX\SportsX.IApplication\bin\Debug\netcoreapp3.1\SportsX.IApplication.deps.json
+C:\Projetos\SportsX\SportsX.IApplication\bin\Debug\netcoreapp3.1\SportsX.IApplication.dll
+C:\Projetos\SportsX\SportsX.IApplication\bin\Debug\netcoreapp3.1\SportsX.IApplication.pdb
+C:\Projetos\SportsX\SportsX.IApplication\bin\Debug\netcoreapp3.1\SportsX.Domain.dll
+C:\Projetos\SportsX\SportsX.IApplication\bin\Debug\netcoreapp3.1\SportsX.Domain.pdb
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.csprojAssemblyReference.cache
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.AssemblyInfoInputs.cache
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.AssemblyInfo.cs
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.csproj.CopyComplete
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.dll
+C:\Projetos\SportsX\SportsX.IApplication\obj\Debug\netcoreapp3.1\SportsX.IApplication.pdb
